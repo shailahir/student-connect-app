@@ -1,0 +1,14 @@
+body {
+  margin: 0;  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;  
+  font-family: 'Inter', sans-serif;
+  background-color: hsla(180, 1%, 83%, 0.712);   
+   height: 100vh !important;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

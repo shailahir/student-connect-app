@@ -1,0 +1,9 @@
+{
+  "short_name": "Notification Portal",
+  "name": "Student Connect: Notification Portal for Students",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
