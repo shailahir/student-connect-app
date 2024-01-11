@@ -1,4 +1,4 @@
-# Student Connect Application
+# Student Connect Application / Notification portal
 ## How to Build 
 
 Run the clean install to create the jar file
